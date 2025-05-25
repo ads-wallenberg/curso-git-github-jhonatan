@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Meus códigos
+=======
+Meus códigos
+Nova linha de código
+Linha de código adicionada
+>>>>>>> staging
